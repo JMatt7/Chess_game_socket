@@ -9,6 +9,8 @@ Project is my implementation of chess game in which I used socket to create mult
 * [Status](#Status)
 
 ## Gameplay
+[![Watch the video](https://www.chess.com/bundles/web/images/offline-play/standardboard.6a504885.png)](https://youtu.be/hwKT_WnOBUc)
+
 
 ## Installation
 Server side
